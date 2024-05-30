@@ -178,6 +178,6 @@ namespace Car_Racing_Game
         private void pictureBox7_Click(object sender, EventArgs e)
         {
 
-        }
-    }
+        }
+    }
 }
